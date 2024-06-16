@@ -15,3 +15,5 @@
 
 ## 安裝必須的package
 ```pip install -r requirements.txt```
+## 執行程式碼
+```python .py

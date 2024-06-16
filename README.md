@@ -15,3 +15,6 @@
 
 ## 安裝必須的packageˇ以及運行程式碼
 ```pip install -r requirements.txt```
+
+# 報告---report
+# 主程式碼---main.ipynb

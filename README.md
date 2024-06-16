@@ -13,7 +13,5 @@
 - scikit-image 0.17.2
 - matplotlib 3.3.3
 
-## 安裝必須的package
+## 安裝必須的packageˇ以及運行程式碼
 ```pip install -r requirements.txt```
-## 執行程式碼
-```python .py
